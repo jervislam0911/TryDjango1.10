@@ -1,0 +1,1 @@
+# TryDjango1.10
