@@ -6,3 +6,4 @@ include/
 lib/
 __pycache__/
 *.py[cod]
+src/db.sqlite3
